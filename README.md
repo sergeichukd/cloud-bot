@@ -1,0 +1,2 @@
+# cloud-bot
+Notifications manager
